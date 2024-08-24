@@ -1,0 +1,18 @@
+Include flags? ✅
+
+Weather animations?
+-Rain
+-Snow
+-Mist
+-Cloudy
+-Drizzle (Sun with a bit of downpour)
+
+Button animation?
+-Button reacts to mouse hover by reflecting
+
+Color themes for weather conditions
+Clear
+
+Decide on website color theme
+
+Invalid city name animation/image
