@@ -1,0 +1,4 @@
+Project idea and weather icons - https://www.youtube.com/@GreatStackDev
+Weather API - https://openweathermap.org/api
+Flag API - https://flagsapi.com
+error image - https://www.vecteezy.com/free-png/404-page
