@@ -6,4 +6,5 @@ This is a simple web application that displays the weather information for diffe
 
 ### Dependencies
   - node.js v18.17.1 or later
+  - npm v9.2.0 or later
   - express ^4.18.2
