@@ -1,3 +1,0 @@
-Project idea - https://www.youtube.com/@GreatStackDev
-Weather API - https://openweathermap.org/api
-Flag API - https://flagsapi.com
